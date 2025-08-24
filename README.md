@@ -84,15 +84,15 @@ Este trabajo se ha realizado sobre un dataset limitado y sintético. Por tanto, 
 ---
 
 ### Visualizaciones
-#### Análisis Grupo 1:  
+#### (Dashboard Power BI) Análisis Grupo 1:  
 
 ![Dashboard Power BI](images/dashboard_powerbi.png)
 
-#### Estrés por grupos:  
+#### (Notebook) Estrés por grupos:  
 
 ![Gráfico Estrés](images/grafico_estres.png)
 
-#### Representación rangos de GPA:
+#### (Notebook) Representación rangos de GPA:
 
 ![Gráfico GPA](images/grafico_gpa.png)
 

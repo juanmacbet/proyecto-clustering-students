@@ -41,29 +41,25 @@ De ellos vamos a destacar como muestra a estos dos grupos:
 
 - **Grupo 2:**
   
-    - Son los que suelen presentar mayor estrés de media (el 92.1% presenta nivel 3 de estrés, el máximo posible).
+    - Son el grupo que presenta mayor estrés de media (el 92.1% presenta nivel 3 de estrés, el máximo posible).
       
-    - Son los que más horas dedican a estudiar de media.
-      
-    - Presentan el mayor GPA promedio (3.34)
+    - Son el grupo que más horas dedica de media a estudiar.
       
 
 - **Grupo 3:**
   
-    - Son los que presentan de menor estrés de media (el 0% presenta nivel 3 de estrés).
+    - Son el grupo que presenta menor estrés de media (el 0% presenta nivel 3 de estrés).
       
-    - Son los que menos horas dedican al estudio.
-      
-    - Presentan el peor GPA promedio (2.93)
+    - Son el grupo que menos horas dedica de media a estudiar.
 
 
-Un hallazgo interesante es que, aunque la variable GPA no fue usada en la segmentación de los estudiantes, presenta una fuerte correlación con los grupos, y esto podemos decirlo por dos razones:
+Un hallazgo interesante es que, aunque la variable GPA (medida de calificación académica) no fue usada en la segmentación de los estudiantes, presenta una fuerte correlación con los grupos, y esto podemos decirlo por dos razones:
 
 La primera es que si mostramos el GPA promedio de estos dos grupos vemos lo siguiente:
 
     - Grupo 2: 3.34 (Presentan el mayor GPA promedio de entre los 4 grupos)
     
-    - Grupo 3: 2.93 (Presentan el peor GPA promedio de entre los 4 grupos)
+    - Grupo 3: 2.93 (Presentan el menor GPA promedio de entre los 4 grupos)
 
 Y la segunda es que si del total de los estudiantes, los 2000, representamos al 25% de ellos con mayor GPA y al 25% con menor GPA, vemos lo siguiente:
 
@@ -72,7 +68,7 @@ Y la segunda es que si del total de los estudiantes, los 2000, representamos al 
     - 25% con menor GPA: el 50.1% de ellos pertenece al Grupo 3 y tan solo el 2.9% pertenece al Grupo 2.
     
 
-Y esta es solo una de las muchas correlaciones y muchos patrones que se pueden deducir tras haber segmentado y analizado este dataset de estudiantes....
+Esta es solo una de las muchas correlaciones y muchos patrones que se pueden deducir tras haber segmentado y analizado este dataset de estudiantes....
 
 
 Como conclusión, este análisis demuestra que los algoritmos de clustering pueden ser una herramienta útil para segmentar estudiantes en función de sus hábitos y comportamientos, revelando patrones ocultos que luego se relacionan de manera clara con el rendimiento académico.
